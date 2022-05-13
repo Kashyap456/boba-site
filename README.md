@@ -1,1 +1,3 @@
-# boba-site-CIS-197
+# boba-site
+
+A boba review site built using the MERN stack
